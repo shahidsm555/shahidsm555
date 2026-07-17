@@ -8,7 +8,7 @@
 
 I'm a software engineer with over 15 years of experience building scalable, interactive applications and enterprise-grade systems. Currently I'm a Senior Software Engineer at Bluell AB, where I focus on delivering reliable solutions in application deployment and scalability.
 
-My day-to-day stack is React, Angular, Node.js, .NET Core, and PostgreSQL, with Azure DevOps handling the pipeline side. Lately much of my work involves integrating AI into real products — OpenAI APIs, Azure AI Foundry, and speech-to-text platforms like Deepgram and Sonix.
+My day-to-day stack is React, Angular, Node.js, .NET Core, and PostgreSQL, with Azure DevOps handling the pipeline side. Lately much of my work involves integrating AI into real products: OpenAI APIs, Azure AI Foundry, and speech-to-text platforms like Deepgram and Sonix.
 
 Happy to talk about full-stack development, application scalability, or getting AI features into production. You can reach me at shahidsm555@gmail.com.
 
@@ -23,9 +23,13 @@ Happy to talk about full-stack development, application scalability, or getting 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![IoT / BLE](https://img.shields.io/badge/IoT_%2F_BLE-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=databricks&logoColor=white)
