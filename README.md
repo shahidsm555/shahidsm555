@@ -6,12 +6,9 @@
 
 </div>
 
-Full-stack engineer building web, mobile, and AI-powered applications. I work across the stack — from React and React Native front ends to Node.js and .NET back ends — and I'm currently focused on integrating AI agents and knowledge-graph memory into real products.
+I'm a full-stack engineer building web, mobile, and AI-powered applications. Most of my work lives across React and React Native on the front end, and Node.js and .NET on the back end. These days I spend a lot of time wiring AI agents into real products — Azure OpenAI, knowledge graphs, RAG pipelines and the like.
 
-- 🔭 Currently working on **AI agent integrations** (Azure OpenAI, knowledge graphs, RAG)
-- 🌱 Deep-diving into **LLM tooling and agentic workflows**
-- 💬 Ask me about **React, Node.js, .NET, TypeScript, and shipping full-stack products**
-- 📫 Reach me at **shahidsm555@gmail.com**
+Happy to talk about React, Node.js, .NET, TypeScript, or shipping full-stack products. You can reach me at shahidsm555@gmail.com.
 
 ## 🛠️ Tech Stack
 
