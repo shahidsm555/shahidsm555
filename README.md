@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Shahid Manzoor 👋
+# Hi, I'm Shahid Manzoor 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;React+%7C+Node.js+%7C+.NET+%7C+TypeScript;Building+AI-powered+applications)](https://github.com/shahidsm555)
 
