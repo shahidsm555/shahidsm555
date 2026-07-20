@@ -6,7 +6,7 @@
 
 </div>
 
-I'm a software engineer with over 15 years of experience building scalable, interactive applications and enterprise-grade systems. Currently I'm a Senior Software Engineer at Bluell AB, where I focus on delivering reliable solutions in application deployment and scalability.
+I'm a software engineer with extensive experience building scalable, interactive applications and enterprise-grade systems, including fintech platforms. Currently I work as a Senior Software Engineer, focused on delivering reliable solutions in application deployment and scalability.
 
 My day-to-day stack is React, Angular, Node.js, .NET Core, and PostgreSQL, with Azure DevOps handling the pipeline side. Lately much of my work involves integrating AI into real products: OpenAI APIs, Azure AI Foundry, and speech-to-text platforms like Deepgram and Sonix.
 
