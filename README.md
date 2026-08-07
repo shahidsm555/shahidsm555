@@ -6,11 +6,11 @@
 
 </div>
 
-I'm a software engineer with extensive experience building scalable, interactive applications and enterprise-grade systems, including fintech platforms. Currently I work as a Senior Software Engineer, focused on delivering reliable solutions in application deployment and scalability.
+I'm a Senior Full-Stack Engineer with 16 years of experience building scalable web applications and enterprise-grade systems, from fintech platforms to AI-agentic products. Currently a Senior Software Engineer at Bluell AB, focused on reliable deployment and scalability.
 
-My day-to-day stack is React, Angular, Node.js, .NET Core, and PostgreSQL, with Azure DevOps handling the pipeline side. Lately much of my work involves integrating AI into real products: OpenAI APIs, Azure AI Foundry, and speech-to-text platforms like Deepgram and Sonix.
+My core stack is React, Next.js, Node.js, .NET Core, and PostgreSQL, with Docker and Azure DevOps on the pipeline side. Lately much of my work is integrating AI into real products — the OpenAI API, Soniox real-time speech-to-text, and LLM-powered features with FastAPI. Most recently I'm lead developer on Dawa, an agentic AI platform for private capital markets — building compliance-first AI agents that automate the full deal lifecycle.
 
-Happy to talk about full-stack development, application scalability, or getting AI features into production. You can reach me at shahidsm555@gmail.com.
+Happy to talk full-stack development, application scalability, or shipping AI features to production. Reach me at shahidsm555@gmail.com.
 
 ## 🛠️ Tech Stack
 
